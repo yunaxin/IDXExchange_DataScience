@@ -1,6 +1,7 @@
 data/
 crmls_listed.py
 crmls_sold.py
+output/
 
 # macOS
 .DS_Store
